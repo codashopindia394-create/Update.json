@@ -15,5 +15,5 @@
   "dialogBackgroundColor": "#FFFFFF",
   
   // FIX: Expiry time set to 1:30 PM (13:30) UTC on Jan 1, 2024
-  "expiryDateTime": "2024-01-01T13:30:00Z" 
+  "expiryDateTime": "2023-01-01T13:30:00Z" 
 }
